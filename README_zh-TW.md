@@ -143,9 +143,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **15541** |
+| 📝 提示詞總數 | **15540** |
 | ⭐ 精選 | **9** |
-| 🔄 最後更新 | **2026年9月6日 星期日 上午8:03:19 [UTC]** |
+| 🔄 最後更新 | **2026年9月6日 星期日 中午12:03:33 [UTC]** |
 
 </div>
 
@@ -700,41 +700,7 @@ M8 — 您知道嗎：3 個事實（來源、科學、全球統計）+ 圖示
 
 ---
 
-### No. 2: 個人檔案 / 頭像 - 電影感強烈側臉肖像
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-這是一個電影級低調肖像提示詞，能將參考圖像轉化為具有選擇性色彩、氛圍感強烈的角色特寫。
-
-#### 📝 提示詞
-
-```
-為上傳的男性創建一張黑暗、強烈且具電影感的特寫肖像。他留著凌亂且經過造型的頭髮，髮絲自然垂落，正轉頭越過肩膀凝視鏡頭，眼神深邃、嚴肅且帶著強烈的憂鬱感。他的身體側向一邊，左手臂抬起橫過臉部至耳朵處，手肘向上並向前延伸，遮住部分臉龐，僅露出一隻眼睛，營造出強烈的層次感姿勢。他穿著一件 {argument name="shirt color" default="深藍綠色"} 的絲綢襯衫，袖子捲起且領口敞開，隱約露出乾淨的胸膛。DSLR 品質，從側面拍攝他看向鏡頭的瞬間。保持臉部大部分去飽和度並呈現自然膚色，同時襯衫保留濃郁的 {argument name="shirt color" default="深藍綠色"}，創造出選擇性色彩的電影視覺效果。戲劇性的低調側光，深邃的黑色陰影，細膩的底片顆粒感，高對比度，情緒化的 {argument name="background" default="黑色背景"} 搭配較低的前景，輕微暗角，真實的皮膚紋理，淺景深，時尚雜誌攝影風格，85mm 鏡頭，超寫實，氛圍感，4:5 肖像比例。請確保臉部與上傳的照片保持一致。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788676675182_mwzuwh_HRfyOzraYAAF_lo.jpg" width="600" alt="個人檔案 / 頭像 - 電影感強烈側臉肖像 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [Muhammad Jamil](https://x.com/JamilAI55)
-- **來源:** [Twitter Post](https://x.com/JamilAI55/status/2096410503090520259)
-- **發布時間:** 2026年9月6日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=33567)**
-
----
-
-### No. 3: 個人檔案 / 頭像 - 精緻油畫肖像
+### No. 2: 個人檔案 / 頭像 - 精緻油畫肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -780,7 +746,7 @@ M8 — 您知道嗎：3 個事實（來源、科學、全球統計）+ 圖示
 
 ---
 
-### No. 4: 個人檔案 / 頭像 - 趣味臥室生活風格攝影
+### No. 3: 個人檔案 / 頭像 - 趣味臥室生活風格攝影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -814,7 +780,7 @@ M8 — 您知道嗎：3 個事實（來源、科學、全球統計）+ 圖示
 
 ---
 
-### No. 5: 個人檔案 / 頭像 - 運動型男網球場時尚編輯攝影
+### No. 4: 個人檔案 / 頭像 - 運動型男網球場時尚編輯攝影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -848,7 +814,7 @@ M8 — 您知道嗎：3 個事實（來源、科學、全球統計）+ 圖示
 
 ---
 
-### No. 6: 個人檔案 / 頭像 - Mirror Studio 時尚人像
+### No. 5: 個人檔案 / 頭像 - Mirror Studio 時尚人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -882,7 +848,7 @@ M8 — 您知道嗎：3 個事實（來源、科學、全球統計）+ 圖示
 
 ---
 
-### No. 7: 個人檔案 / 頭像 - 自然美感攝影棚人像
+### No. 6: 個人檔案 / 頭像 - 自然美感攝影棚人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -916,7 +882,7 @@ M8 — 您知道嗎：3 個事實（來源、科學、全球統計）+ 圖示
 
 ---
 
-### No. 8: 個人檔案 / 頭像 - 東亞女性與非洲菊
+### No. 7: 個人檔案 / 頭像 - 東亞女性與非洲菊
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -956,7 +922,7 @@ M8 — 您知道嗎：3 個事實（來源、科學、全球統計）+ 圖示
 
 ---
 
-### No. 9: 個人檔案 / 頭像 - 黑白明暗對照法肖像
+### No. 8: 個人檔案 / 頭像 - 黑白明暗對照法肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -990,7 +956,7 @@ M8 — 您知道嗎：3 個事實（來源、科學、全球統計）+ 圖示
 
 ---
 
-### No. 10: 個人檔案 / 頭像 - 素描風格人像插畫
+### No. 9: 個人檔案 / 頭像 - 素描風格人像插畫
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1024,7 +990,7 @@ M8 — 您知道嗎：3 個事實（來源、科學、全球統計）+ 圖示
 
 ---
 
-### No. 11: 個人檔案 / 頭像 - 寫實斯拉夫女性攝影棚肖像
+### No. 10: 個人檔案 / 頭像 - 寫實斯拉夫女性攝影棚肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1076,7 +1042,7 @@ M8 — 您知道嗎：3 個事實（來源、科學、全球統計）+ 圖示
 
 ---
 
-### No. 12: 個人檔案 / 頭像 - 復古現代霓虹動漫繪畫
+### No. 11: 個人檔案 / 頭像 - 復古現代霓虹動漫繪畫
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1110,7 +1076,7 @@ M8 — 您知道嗎：3 個事實（來源、科學、全球統計）+ 圖示
 
 ---
 
-### No. 13: 個人檔案 / 頭像 - 禪院真希精細動漫肖像
+### No. 12: 個人檔案 / 頭像 - 禪院真希精細動漫肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1143,7 +1109,7 @@ masterpiece, best quality, ultra-detailed anime portrait of Maki Zenin from Juju
 
 ---
 
-### No. 14: 個人檔案 / 頭像 - 動漫精緻藝術：月光下的山巒
+### No. 13: 個人檔案 / 頭像 - 動漫精緻藝術：月光下的山巒
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1177,7 +1143,7 @@ masterpiece, best quality, ultra-detailed anime portrait of Maki Zenin from Juju
 
 ---
 
-### No. 15: 個人檔案 / 頭像 - 書房夕陽肖像
+### No. 14: 個人檔案 / 頭像 - 書房夕陽肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1211,7 +1177,7 @@ masterpiece, best quality, ultra-detailed anime portrait of Maki Zenin from Juju
 
 ---
 
-### No. 16: 個人檔案 / 頭像 - 動漫武術少女插畫
+### No. 15: 個人檔案 / 頭像 - 動漫武術少女插畫
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1245,7 +1211,7 @@ masterpiece, best quality, ultra-detailed anime portrait of Maki Zenin from Juju
 
 ---
 
-### No. 17: 個人檔案 / 頭像 - 高畫質人像轉換
+### No. 16: 個人檔案 / 頭像 - 高畫質人像轉換
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1279,7 +1245,7 @@ masterpiece, best quality, ultra-detailed anime portrait of Maki Zenin from Juju
 
 ---
 
-### No. 18: 個人檔案 / 頭像 - 健身房鏡面隨拍
+### No. 17: 個人檔案 / 頭像 - 健身房鏡面隨拍
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1312,7 +1278,7 @@ masterpiece, best quality, ultra-detailed anime portrait of Maki Zenin from Juju
 
 ---
 
-### No. 19: 個人檔案 / 頭像 - 電影感城市黃昏人像
+### No. 18: 個人檔案 / 頭像 - 電影感城市黃昏人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1365,6 +1331,40 @@ ar 9:16 4K
 - **多語言:** en
 
 **[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=33193)**
+
+---
+
+### No. 19: 個人檔案 / 頭像 - Netflix 風格電影感人像
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一款專為高面部一致性設計的電影感人像提示詞，可使用參考圖，非常適合垂直影片或社群媒體畫面。
+
+#### 📝 提示詞
+
+```
+超逼真 IMAX 等級 Netflix 風格電影感人像，9:16 垂直畫面，使用上傳的圖片作為主要面部參考以達到最大面部一致性，{argument name="subject" default="一位美麗的年輕女性模特兒"}。穿著 {argument name="outfit" default="休閒、絲滑的灰褐色鈕扣領襯衫"}，搭配 {argument name="accessories" default="經典銀色圓圈耳環和時尚黑色旅行者太陽眼鏡"}。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788418035705_g3tq71_HRINoyVaoAAU9Lk.jpg" width="600" alt="個人檔案 / 頭像 - Netflix 風格電影感人像 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Aynah](https://x.com/AynahhX)
+- **來源:** [Twitter Post](https://x.com/AynahhX/status/2094751793444192486)
+- **發布時間:** 2026年9月1日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=33273)**
 
 ---
 
@@ -4376,7 +4376,41 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 90: 電子商務主圖 - 吉他琴衍整修微距攝影
+### No. 90: 產品行銷 - 復古魅力時尚人像
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一張具有復古編輯美學的白金髮色女性風格化時尚人像。包含琥珀色墨鏡、花卉領結襯衫等細節，並採用情緒化的攝影棚燈光，呈現 8k 數位繪畫質感。
+
+#### 📝 提示詞
+
+```
+一張風格化的時尚近距離人像，主角是一位留著短波浪 {argument name="hair color" default="白金髮色"} 鮑伯頭的年輕女性，髮絲被微風輕輕吹亂。她的臉頰和鼻樑上有著明顯的曬斑，肌膚如瓷器般透亮，塗抹著豐盈的 {argument name="lip color" default="亮面紅色"} 唇彩，頭部微微向上傾斜。她戴著圓形復古金屬框墨鏡，鏡片呈現溫暖的琥珀色，配戴精緻的垂墜耳環，身穿一件 {argument name="outfit style" default="復古荷葉邊高領襯衫"}，上面印有鮮豔的紅奶油色花卉圖案，頸部繫著一個碩大且富有光澤的深紅色緞面領結。採用情緒化的攝影棚燈光，搭配柔和溫暖的定向陽光，背景為深沉柔和的色調，呈現復古編輯美學，細節豐富的數位繪畫，8k 解析度。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788504565111_nnsfed_HRTU48xbgAArDD2.jpg" width="600" alt="產品行銷 - 復古魅力時尚人像 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [𝑨𝒇𝒓𝒊𝒏](https://x.com/afrinxai)
+- **來源:** [Twitter Post](https://x.com/afrinxai/status/2095563976012914839)
+- **發布時間:** 2026年9月3日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=33378)**
+
+---
+
+### No. 91: 電子商務主圖 - 吉他琴衍整修微距攝影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4410,7 +4444,7 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 91: 電子商務主圖 - 頂級飲品廣告攝影
+### No. 92: 電子商務主圖 - 頂級飲品廣告攝影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4450,7 +4484,7 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 92: 電子商務主圖 - 優雅黑色歐根紗緞帶
+### No. 93: 電子商務主圖 - 優雅黑色歐根紗緞帶
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4490,7 +4524,7 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 93: 電子商務主圖 - 奢華巧克力廣告靜物攝影
+### No. 94: 電子商務主圖 - 奢華巧克力廣告靜物攝影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4542,7 +4576,7 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 94: 電子商務主圖 - 超現實美妝產品髮捲
+### No. 95: 電子商務主圖 - 超現實美妝產品髮捲
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4576,7 +4610,7 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 95: 電子商務主圖 - 覆盆子外殼產品攝影
+### No. 96: 電子商務主圖 - 覆盆子外殼產品攝影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4628,7 +4662,7 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 96: 電子商務主圖 - 帶有蜘蛛網元素的電影級產品廣告
+### No. 97: 電子商務主圖 - 帶有蜘蛛網元素的電影級產品廣告
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4668,7 +4702,7 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 97: 電子商務主圖 - 冰塊中的極簡主義產品
+### No. 98: 電子商務主圖 - 冰塊中的極簡主義產品
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4702,7 +4736,7 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 98: 電子商務主圖 - 奢華水瓶產品攝影
+### No. 99: 電子商務主圖 - 奢華水瓶產品攝影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4742,7 +4776,7 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 99: 電子商務主圖 - 夏季護膚品產品攝影
+### No. 100: 電子商務主圖 - 夏季護膚品產品攝影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4794,7 +4828,7 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 100: 電子商務主圖 - Nano Banana Pro 產品拼貼圖
+### No. 101: 電子商務主圖 - Nano Banana Pro 產品拼貼圖
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4834,7 +4868,7 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 101: 電子商務主圖 - 風格化收藏玩具包裝
+### No. 102: 電子商務主圖 - 風格化收藏玩具包裝
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4886,7 +4920,7 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 102: 電子商務主圖 - 頂級產品攝影棚轉化
+### No. 103: 電子商務主圖 - 頂級產品攝影棚轉化
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4938,7 +4972,7 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 103: 電子商務主圖 - 奢華護膚品廣告
+### No. 104: 電子商務主圖 - 奢華護膚品廣告
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4990,7 +5024,7 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 104: 電子商務主圖 - 將 3D 模型轉換為照片級真實感產品渲染圖
+### No. 105: 電子商務主圖 - 將 3D 模型轉換為照片級真實感產品渲染圖
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5024,7 +5058,7 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 105: 電子商務主圖 - 奢華產品群組大師級提示詞
+### No. 106: 電子商務主圖 - 奢華產品群組大師級提示詞
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5088,7 +5122,7 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 106: 電子商務主圖 - 電腦螢幕微距紋理
+### No. 107: 電子商務主圖 - 電腦螢幕微距紋理
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5122,7 +5156,7 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 107: 遊戲素材 - Artifact Diorama SQL 生成
+### No. 108: 遊戲素材 - Artifact Diorama SQL 生成
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5174,7 +5208,7 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 108: 遊戲素材 - 空靈女子花卉髮飾肖像
+### No. 109: 遊戲素材 - 空靈女子花卉髮飾肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5208,7 +5242,7 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 109: 遊戲素材 - 全息畫布玻璃工作室
+### No. 110: 遊戲素材 - 全息畫布玻璃工作室
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5242,7 +5276,7 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 110: 遊戲素材 - 頂級動漫電影感戰士氣場
+### No. 111: 遊戲素材 - 頂級動漫電影感戰士氣場
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5298,7 +5332,7 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 111: 遊戲素材 - 未來倫敦 GTA 風格概念藝術
+### No. 112: 遊戲素材 - 未來倫敦 GTA 風格概念藝術
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5338,7 +5372,7 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 112: 遊戲素材 - 黑色石板上的玻璃彈珠
+### No. 113: 遊戲素材 - 黑色石板上的玻璃彈珠
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5372,7 +5406,7 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 113: 遊戲素材 - 科幻書籍電影感立體場景
+### No. 114: 遊戲素材 - 科幻書籍電影感立體場景
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5424,7 +5458,7 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 114: 遊戲素材 - 漫畫角色黏土人風格立體透視模型
+### No. 115: 遊戲素材 - 漫畫角色黏土人風格立體透視模型
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5470,7 +5504,7 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 115: 遊戲素材 - 電影感奇幻肖像與流體潑濺
+### No. 116: 遊戲素材 - 電影感奇幻肖像與流體潑濺
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5516,7 +5550,7 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 116: 遊戲素材 - 混合 3D 向量插畫風格
+### No. 117: 遊戲素材 - 混合 3D 向量插畫風格
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5562,7 +5596,7 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 117: 遊戲素材 - 石凳上的 3D 風格化卡通女孩
+### No. 118: 遊戲素材 - 石凳上的 3D 風格化卡通女孩
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5596,7 +5630,7 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 118: 遊戲素材 - 日落時分的寧靜景觀與超現實人物
+### No. 119: 遊戲素材 - 日落時分的寧靜景觀與超現實人物
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5638,7 +5672,7 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 119: 遊戲素材 - Sydney Sweeney 遊戲設備人像
+### No. 120: 遊戲素材 - Sydney Sweeney 遊戲設備人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5719,53 +5753,13 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 120: 海報／傳單 - 2D 平面時尚插畫
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一個用於創作大膽 2D 時尚插畫的提示詞，以中東人物為主題，並結合飽和色彩與棋盤格紋。
-
-#### 📝 提示詞
-
-```
-大膽的 2D 平面插畫，{argument name="subject" default="未戴面紗的中東女性"}，粗黑輪廓線，飽和色彩，{argument name="trousers" default="紅白色棋盤格寬褲"}，{argument name="blouse" default="繡有太陽圖騰的襯衫"}，海報風格平塗陰影，簡約淡紫色背景，自信的叉腰姿勢，3:4
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788504576651_37f5r6_HRTOgOkW0AEi28G.jpg" width="600" alt="海報／傳單 - 2D 平面時尚插畫 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788504576685_fxtm9y_HRTOgPMbwAAWYz3.jpg" width="600" alt="海報／傳單 - 2D 平面時尚插畫 - Image 2">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [Eman Wagdy](https://x.com/em_wagdy)
-- **來源:** [Twitter Post](https://x.com/em_wagdy/status/2095587128742711586)
-- **發布時間:** 2026年9月3日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=33397)**
-
----
-
 ---
 
 ## 📚 更多提示詞
 
 <div align="center">
 
-### 🎯 15421 更多提示詞未在此顯示
+### 🎯 15420 更多提示詞未在此顯示
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5828,6 +5822,6 @@ The gallery features:
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-09-06T08:03:19.119Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-09-06T12:03:33.788Z</sub>
 
 </div>
